@@ -11,13 +11,13 @@ Analysis of Stack Overflow Survey 2019
 
 ## Installation and Requirement <a name="installation"></a>
 
-Installation is unnecessary, the notebook was written in Python 3.6.6.
+Installation is unnecessary, the notebook was written using Python 3.6.6.
 Python library requires:
 Numpy, Pandas, Seaborn, Matplotlib, Networkx, Xgboost, Sklearn, Jupyter notebook.
 
 ## Project Motivation<a name="motivation"></a>
 
-The Stack Overflow Annual Developer Survey [See here](https://insights.stackoverflow.com/survey) contains nearly 90000 responses fielded from over 170 countries and dependent territories. The survey examines all aspects of the developer experience from career satisfaction and job search to education and opinions on open source software. In this project, I will explore this survey dataset, specially focused on mining the people who identify themself as a data scientist. Data scientist is a very popular job since 2010s. A data scientist job openning will attract hundreds of applicants to submit their resume, I am interested what you should have to become a data scientist, also the things that you should add into your resume. The project attempt to give answers to the following three questions:
+The Stack Overflow Annual Developer Survey [(See here)](https://insights.stackoverflow.com/survey) contains nearly 90000 responses fielded from over 170 countries and dependent territories. The survey examines all aspects of the developer experience from career satisfaction and job search to education and opinions on open source software. In this project, I will explore this survey dataset, specially focused on mining the people who identify themself as a data scientist. Data scientist is a very popular job since 2010s. A data scientist job openning will attract hundreds of applicants to submit their resume, I am interested what you should have to become a data scientist, also the things that you should add into your resume. The project attempt to give answers to the following three questions:
 
 What skill and education background data scientist has?
 
