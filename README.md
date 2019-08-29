@@ -1,5 +1,5 @@
-# StackOverflow_2019
-Analysis of Stack Overflow Survey 2019
+# What you need to know to become a data scientist?
+### - Data mining from Stack Overflow 2019 Annual Developer Survey.
 
 ## Contents
 
