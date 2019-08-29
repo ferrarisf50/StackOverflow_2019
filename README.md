@@ -17,11 +17,17 @@ Numpy, Pandas, Seaborn, Matplotlib, Networkx, Xgboost, Sklearn, Jupyter notebook
 
 ## Project Motivation<a name="motivation"></a>
 
+The Stack Overflow Annual Developer Survey [See here](https://insights.stackoverflow.com/survey) contains nearly 90000 responses fielded from over 170 countries and dependent territories. The survey examines all aspects of the developer experience from career satisfaction and job search to education and opinions on open source software. In this project, I will explore this survey dataset, specially focused on mining the people who identify themself as a data scientist. Data scientist is a very popular job since 2010s. A data scientist job openning will attract hundreds of applicants to submit their resume, I am interested what you should have to become a data scientist, also the things that you should add into your resume. The project attempt to give answers to the following three questions:
 
+What skill and education background data scientist has?
+
+What salary does data scientist earn comparing to other developer?
+
+What features make data scientist distnct in this survey?
 
 ## File Descriptions <a name="files"></a>
 
-There is only one notebook Stackoverflow_survey_2019.ipynb. It contains all analysis and answers for the 3 questions. A content at the beginning in the notebook helps read and 
+There is only one notebook Stackoverflow_survey_2019.ipynb. It contains all analysis and answers for the 3 questions. A content at the top of the notebook helps jumping to the specific section. 
 
 ## Results<a name="results"></a>
 
