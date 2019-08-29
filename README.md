@@ -11,7 +11,7 @@
 
 ## Installation and Requirement <a name="installation"></a>
 
-Installation is unnecessary, the notebook was written using Python 3.6.6. /n
+Installation is unnecessary, the notebook was written using Python 3.6.6. \n
 Python library requires:
 Numpy, Pandas, Seaborn, Matplotlib, Networkx, Xgboost, Sklearn, Jupyter notebook.
 
