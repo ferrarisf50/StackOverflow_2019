@@ -1,5 +1,5 @@
 # What you need to know to become a data scientist?
-### - Data mining from Stack Overflow 2019 Annual Developer Survey.
+-- Data mining from Stack Overflow 2019 Annual Developer Survey
 
 ## Contents
 
