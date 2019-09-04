@@ -31,7 +31,7 @@ There is only one notebook Stackoverflow_survey_2019.ipynb. It contains all anal
 
 ## Results<a name="results"></a>
 
-
+I've written a post about my findings. [(See here)](https://medium.com/@ferrarisf50/what-you-need-to-know-before-looking-for-a-data-scientist-job-87100fd3ca14)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
