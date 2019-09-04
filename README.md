@@ -1,4 +1,4 @@
-# What you need to know to become a data scientist?
+# What you need to know before looking for a data scientist job??
 -- Data mining from Stack Overflow 2019 Annual Developer Survey
 
 ## Contents
